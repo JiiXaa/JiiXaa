@@ -1,4 +1,8 @@
-# Hi there 👋
+# Hi there 👋  [![HitCount](http://hits.dwyl.com/JiiXaa/JiiXaa.svg?style=flat-square&show=unique)](http://hits.dwyl.com/JiiXaa/JiiXaa)
+[![made-with-javascript](https://img.shields.io/badge/Conquer-JavaScript-1f425f.svg)](https://www.javascript.com)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
+
+
 
 
 *“The measure of intelligence is the ability to change”* - Albert Einstein   
