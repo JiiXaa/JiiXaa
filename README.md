@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**JiiXaa/JiiXaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+*“The measure of intelligence is the ability to change”* - Albert Einstein   
+
+#### About me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 💡
+
+![starIsBorn](https://user-images.githubusercontent.com/49583516/153925138-f50dde79-a997-4402-b4f5-8e1e1e659872.jpg) </p>
