@@ -3,8 +3,6 @@
 
 
 
-https://img.shields.io/badge/Powered%20by-PostgreSQL-blue.svg
-
 *“The measure of intelligence is the ability to change”* - Albert Einstein   
 
 #### Technologies I am interested in:
@@ -13,6 +11,7 @@ https://img.shields.io/badge/Powered%20by-PostgreSQL-blue.svg
 - NextJS
 - NodeJS
 - MongoDB
+- MySQL
 - C#
 - CSS/SCSS (styled-components, tailwind)
 
