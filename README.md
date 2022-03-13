@@ -15,5 +15,7 @@
 - C#
 - CSS/SCSS (styled-components, tailwind)
 
+<a href="https://skill-showcase.vercel.app/" target="_blank">For my portfolio Click Here!</a>
+
 
 ![starIsBorn](https://user-images.githubusercontent.com/49583516/153925138-f50dde79-a997-4402-b4f5-8e1e1e659872.jpg) </p>
