@@ -1,4 +1,4 @@
-# Hi there 👋  [![HitCount](http://hits.dwyl.com/JiiXaa/JiiXaa.svg?style=flat-square&show=unique)](http://hits.dwyl.com/JiiXaa/JiiXaa)
+# Hi there 👋 
 [![made-with-javascript](https://img.shields.io/badge/Since-2019-important.svg)](https://www.javascript.com)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-blue.svg)](https://google.com)
 
 
