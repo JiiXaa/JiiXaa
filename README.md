@@ -5,14 +5,14 @@
 
 *“The measure of intelligence is the ability to change”* - Albert Einstein   
 
-#### Technologies I am interested in:
+#### Technologies I am passionate about:
 
 - React 
-- NextJS
 - NodeJS
+- Python
+- Django
 - MongoDB
 - MySQL
-- C#
 - CSS/SCSS (styled-components, tailwind)
 
 <a href="https://skill-showcase.vercel.app/" target="_blank">For my portfolio Click Here!</a>
